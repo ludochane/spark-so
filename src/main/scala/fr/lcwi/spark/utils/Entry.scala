@@ -1,4 +1,4 @@
-package fr.lcwi.spark
+package fr.lcwi.spark.utils
 
 /**
   * Created by chanelu on 10/02/2017.

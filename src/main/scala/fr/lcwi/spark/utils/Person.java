@@ -1,4 +1,4 @@
-package fr.lcwi.spark;
+package fr.lcwi.spark.utils;
 
 import java.io.Serializable;
 

@@ -6,9 +6,9 @@ import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.functions;
 
 /**
- * Created by chanelu on 22/03/2017.
+ * http://stackoverflow.com/questions/43280876/merge-two-columns-in-a-spark-dataset-using-java
  */
-public class MainJavaJson {
+public class Merge_two_columns_in_a_spark_dataset_using_java {
     public static void main(String[] args) {
         SparkSession spark = SparkSession
                 .builder()
