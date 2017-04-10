@@ -1,0 +1,13 @@
+.idea/*
+*.log
+*.class
+*.iml
+*.ipr
+*.iws
+.idea/
+out
+.cache
+.history
+.lib/
+dist/*
+target/

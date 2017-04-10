@@ -1,0 +1,4 @@
+{"IPsrc":"abc", "IPdst":"def", "beginTime": 1, "endTime":1}
+{"IPsrc":"def", "IPdst":"abc", "beginTime": 2, "endTime":2}
+{"IPsrc":"abc", "IPdst":"def", "beginTime": 3, "endTime":3}
+{"IPsrc":"def", "IPdst":"abc", "beginTime": 4, "endTime":4}
